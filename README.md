@@ -1,1 +1,1 @@
-# (1)Linear_Regression-50_Startups-
+# Linear_Regression-50_Startups-
